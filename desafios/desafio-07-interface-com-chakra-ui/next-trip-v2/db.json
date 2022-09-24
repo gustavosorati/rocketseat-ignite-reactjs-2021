@@ -1,0 +1,90 @@
+{
+  "continents": [
+    { 
+      "id": 1,
+      "title": "Europa",
+      "banner": "https://images.unsplash.com/photo-1485081669829-bacb8c7bb1f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "info": {
+        "amountCountries": "50",
+        "amountLanguages": "60",
+        "amountCities": "27"
+      },
+      "cities": [
+        {
+          "city": "Londres",
+          "country": "Reino Unido",
+          "flag": "https://img2.gratispng.com/20180322/ide/kisspng-england-kingdom-of-great-britain-flag-of-the-unite-cyber-nations-wiki-5ab40918aab721.6894237315217482486993.jpg",
+          "picture": "https://images.unsplash.com/photo-1526129318478-62ed807ebdf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+        },
+        {
+          "city": "Paris",
+          "country": "França",
+          "flag": "http://geo5.net/imagens/bandeira-da-fran%C3%A7a-grande.png",
+          "picture": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2373&q=80"
+        },
+        {
+          "city": "Roma",
+          "country": "Itália",
+          "flag": "https://static.significados.com.br/foto/bandeira-italia-0-cke.jpg",
+          "picture": "https://images.unsplash.com/photo-1626285220266-e35bd313d05b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1335&q=80"
+        },
+        {
+          "city": "Praga",
+          "country": "República Tcheca",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/255px-Flag_of_the_Czech_Republic.svg.png",
+          "picture": "https://images.unsplash.com/photo-1562624475-96c2bc08fab9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1760&q=80"
+        },
+        {
+          "city": "Amsterdã",
+          "country": "Holanda",
+          "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAD1BMVEX///+uHCghRousABYLPIffJaIXAAABB0lEQVR4nO3QuRGAAAzAsPDsPzN9XFJAIU3g8xxs83XAD3lSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKe1FxsAwAAAAAAAAAAAAAAAAAAAMB7N9ucbJ6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Uk9Q6/I4nGDdNoAAAAASUVORK5CYII=",
+          "picture": "https://images.unsplash.com/photo-1583455782678-d3822b870595?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1320&q=80"
+        }
+      ]
+    },
+    { 
+      "id": 2,
+      "title": "Asia",
+      "banner": "https://images.unsplash.com/photo-1485081669829-bacb8c7bb1f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "info": {
+        "amountCountries": "50",
+        "amountLanguages": "60",
+        "amountCities": "27"
+      },
+      "cities": [
+        {
+          "city": "Londres",
+          "country": "Reino Unido",
+          "flag": "https://img2.gratispng.com/20180322/ide/kisspng-england-kingdom-of-great-britain-flag-of-the-unite-cyber-nations-wiki-5ab40918aab721.6894237315217482486993.jpg",
+          "picture": "https://images.unsplash.com/photo-1526129318478-62ed807ebdf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+        },
+        {
+          "city": "Paris",
+          "country": "França",
+          "flag": "http://geo5.net/imagens/bandeira-da-fran%C3%A7a-grande.png",
+          "picture": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2373&q=80"
+        },
+        {
+          "city": "Roma",
+          "country": "Itália",
+          "flag": "https://static.significados.com.br/foto/bandeira-italia-0-cke.jpg",
+          "picture": "https://images.unsplash.com/photo-1626285220266-e35bd313d05b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1335&q=80"
+        },
+        {
+          "city": "Praga",
+          "country": "República Tcheca",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/255px-Flag_of_the_Czech_Republic.svg.png",
+          "picture": "https://images.unsplash.com/photo-1562624475-96c2bc08fab9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1760&q=80"
+        },
+        {
+          "city": "Amsterdã",
+          "country": "Holanda",
+          "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAD1BMVEX///+uHCghRousABYLPIffJaIXAAABB0lEQVR4nO3QuRGAAAzAsPDsPzN9XFJAIU3g8xxs83XAD3lSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKe1FxsAwAAAAAAAAAAAAAAAAAAAMB7N9ucbJ6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Uk9Q6/I4nGDdNoAAAAASUVORK5CYII=",
+          "picture": "https://images.unsplash.com/photo-1583455782678-d3822b870595?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1320&q=80"
+        }
+      ]
+    }
+  ]
+}

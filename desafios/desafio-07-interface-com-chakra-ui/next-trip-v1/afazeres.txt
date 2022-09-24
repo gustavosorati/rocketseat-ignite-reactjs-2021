@@ -1,0 +1,7 @@
+- terminar db.json
+- Ajeitar o Slider
+- Tentar trabalhar um pouco melhor na responsividade
+- Compactar components
+
+- getStaticPaths - para deixar carregado
+- tentar fazer um slider das cidades 6 por tela talvez

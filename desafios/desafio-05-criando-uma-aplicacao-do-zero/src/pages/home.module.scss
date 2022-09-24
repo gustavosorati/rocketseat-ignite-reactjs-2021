@@ -1,0 +1,56 @@
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.content {
+  margin-bottom: 3rem;
+  
+  &:last-child {
+    margin-bottom: 5rem;
+  }
+
+  &:hover h1 {
+    color: var(--highlight);
+  }
+
+  h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 34px;
+    color: var(--heading);
+    transition: color 300ms;
+  }
+
+  p {
+    font-size: 1.125rem;
+    color: var(--body);
+    margin: 1rem 0;
+  }
+
+  .postInformations {
+    display: flex;
+    gap: 0 1.25rem;
+    align-items: center;
+    margin-bottom: 3rem;
+    color: var(--body);
+
+    span, time {
+      font-size: .875rem;
+      color: var(--info);
+
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+    }
+  }
+}
+
+.nextPage {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--highlight);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}

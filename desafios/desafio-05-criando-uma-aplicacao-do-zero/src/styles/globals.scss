@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --background: #282C34;
+  --body: #d7d7d7;
+  --heading: #f8f8f8;
+  --highlight: #ff57b2;
+  --info: #bbbbbb;
+}
+
+body {
+  background-color: var(--background);
+  font: 400 1rem 'Inter', sans-serif;
+  color: var(--body);
+}
+
+a {
+  text-decoration: none;
+  color: var(--highlight);
+}
+
+img {
+  max-width: 100%;
+}
+
+@media (max-width: 1200px) {
+  html {
+    font-size: 93.75%;
+  }
+  
+  body {
+    margin: 0 3rem;
+  }
+}

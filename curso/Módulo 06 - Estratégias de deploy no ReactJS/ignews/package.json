@@ -1,0 +1,44 @@
+{
+  "name": "ignews",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@prismicio/client": "5.1.1",
+    "@stripe/stripe-js": "^1.22.0",
+    "@types/prismic-dom": "^2.1.1",
+    "axios": "^0.24.0",
+    "faunadb": "^4.4.1",
+    "next": "^12.2.2",
+    "next-auth": "^4.0.6",
+    "prismic-dom": "^2.2.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.2.0",
+    "stripe": "^8.176.0"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^8.16.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@types/node": "^16.9.2",
+    "@types/react": "^18.0.15",
+    "babel-jest": "^28.1.2",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^28.1.2",
+    "jest-dom": "^4.0.0",
+    "jest-environment-jsdom": "^28.1.2",
+    "jest-mock": "^28.1.1",
+    "sass": "^1.41.1",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.4.3"
+  }
+}
