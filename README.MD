@@ -14,8 +14,8 @@ Nesse módulo criaremos a estrutura base de uma aplicação React utilizando fer
   - Usando Typescript
   - Finalizando a aplicação
 
-  - Desafio: Conceitos do React
-  - Desafio: Componentizando a aplicação
+  - [Desafio: Conceitos do React](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d)
+  - [Desafio: Componentizando a aplicação](https://app.rocketseat.com.br/ignite/react-js)
 
 **Capitulo 02 - Primeira aplicação web com React JS**
 
@@ -27,8 +27,8 @@ Nesse módulo construiremos uma aplicação front-end web completa utilizando co
   - Modal & Forms
   - Contextos e hooks
 
-  - Desafio: Criando um hook de carrinho de compras
-  - Desafio: Refactoring de classes e Typescript
+  - [Desafio: Criando um hook de carrinho de compras](https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12)
+  - [Desafio: Refactoring de classes e Typescript](https://www.notion.so/Desafio-02-Refactoring-de-classes-e-typescript-4571541e7f8c4799bd191b6cfb53802c)
 
 **Capitulo 03 - Fundamentos do Next.js**
 
@@ -54,7 +54,7 @@ Durante esse módulo entenderemos como o front-end se transformou nos últimos a
   - Trabalhando com CMS
   - Páginas estáticas
 
-  - Desafio: Criando uma aplicação do zero
+  - [Desafio: Criando uma aplicação do zero](https://www.notion.so/Desafio-01-Criando-um-projeto-do-zero-b1a3645d286b4eec93f5f1f5476d0ff7)
 
 **Capitulo 04 - Construindo interfaces do futuro**
 
@@ -66,7 +66,7 @@ Nesse módulo criaremos a interface de um painel administrativo contendo fluxo d
   - Responsividade
   - Formulários e validação
 
-  - Desafio: Interface com Chakra UI
+  - [Desafio: Interface com Chakra UI](https://www.notion.so/Desafio-01-Interface-com-Chakra-UI-d1274f7fd7f54283b9173b7fd8003cc6)
 
 
 **Capitulo 04 - Data fetching e cache local**
@@ -85,7 +85,7 @@ Nesse módulo vamos entender como criar um processo completo de autenticação, 
   - Autenticação com SSR
   - Controle de permissões
 
-  - Desafio: Upload de imagens
+  - [Desafio: Upload de imagens](https://www.notion.so/Desafio-02-Upload-de-imagens-4cf1c3b1c1ad4a66961b6e48558cc3b8)
 
 **Capitulo 05 - Performando apps com ReactJS**
 
@@ -94,7 +94,7 @@ Uma preocupação comum no desenvolvimento de aplicações web é a performance 
   - Fundamentos
   - Otimizações
 
-  - Desafio: Otimizando a aplicação
+  - [Desafio: Otimizando a aplicação](https://efficient-sloth-d85.notion.site/Desafio-01-Otimizando-a-aplica-o-2942004b422d455891756300d88d0b9a)
 
 **Capitulo 05 - Testes unitários no React**
 
@@ -109,4 +109,4 @@ Nesse módulo vamos entender como criar testes automatizados de unidade dentro d
 
 Nesse módulo vamos conhecer as principais estratégias de deploy de uma aplicação ReactJS com e sem Next.js utilizando serviços como Netlify e Vercel principalmente, mas também apresentando outras opções para projetos mais complexos.
 
-  - Desafio: Deploy da aplicação
+  - [Desafio: Deploy da aplicação](https://www.notion.so/Desafio-01-Deploy-do-Ignews-fa97bd61c2b5449195b66a57b0cbf4a8)
